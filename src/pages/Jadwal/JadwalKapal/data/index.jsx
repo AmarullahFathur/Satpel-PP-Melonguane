@@ -141,7 +141,7 @@ export const jadwalLabuhanHaji = [
     tanggalDatang: "-",
     jamDatang: "-",
     tanggalBerangkat: "-",
-    jamBerangkat: "-",
+    jamBerangkat: "",
   },
   {
     id: 5,
