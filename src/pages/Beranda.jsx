@@ -111,7 +111,7 @@ const Beranda = () => {
             <SwiperSlide>
               <img src={warambe} alt="warambe" />
               <p className="text-center text-slate-500 font-medium mt-1">
-                KMP. Warambe{" "}
+                KMP. Marambe{" "}
               </p>
             </SwiperSlide>
             <SwiperSlide>
