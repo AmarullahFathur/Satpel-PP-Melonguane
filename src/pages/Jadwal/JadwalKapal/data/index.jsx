@@ -3,7 +3,7 @@ export const jadwalMarambe = [
     id: 1,
     no: 1,
     pelabuhan: "Melonguane",
-    jamDatang: "-",
+    jamDatang: "",
     jamBerangkat: "06.00",
   },
   {
