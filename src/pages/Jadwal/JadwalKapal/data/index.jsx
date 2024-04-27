@@ -327,7 +327,7 @@ export const jadwalTarusi = [
     id: 1,
     no: 1,
     pelabuhan: "Pananaru",
-    tanggalDatang: "-",
+    tanggalDatang: "19 April 2024",
     jamDatang: "-",
     tanggalBerangkat: "-",
     jamBerangkat: "-",
