@@ -122,9 +122,26 @@ export const jadwalLabuhanHaji = [
     pelabuhan: "Melonguane",
     tanggalDatang: "Minggu, 19 Mei 2024",
     jamDatang: "22.30 WITA",
+    tanggalBerangkat: "Senin, 20 Mei 2024",
+    jamBerangkat: "09.00 WITA",
+   },
+  {
+    id: 3,
+    no: 3,
+    pelabuhan: "Bitung",
+    tanggalDatang: "Selasa, 21 Mei 2024",
+    jamDatang: "08.00 WITA",
+    tanggalBerangkat: "Kamis, 23 Mei 2024",
+    jamBerangkat: "11.00 WITA",
+    },
+  {
+    id: 4,
+    no: 4,
+    pelabuhan: "Melonguane",
+    tanggalDatang: "Jumat, 24 Mei 2024",
+    jamDatang: "09.00 WITA",
     tanggalBerangkat: "",
     jamBerangkat: "-",
-  
 
 export const jadwalWatunapato = [
   {
