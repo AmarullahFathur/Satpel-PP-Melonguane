@@ -124,53 +124,7 @@ export const jadwalLabuhanHaji = [
     jamDatang: "22.30 WITA",
     tanggalBerangkat: "",
     jamBerangkat: "-",
-  },
-  {
-    id: 3,
-    no: 3,
-    pelabuhan: "Bitung",
-    tanggalDatang: "-",
-    jamDatang: "-",
-    tanggalBerangkat: "-",
-    jamBerangkat: "-",
-  },
-  {
-    id: 4,
-    no: 4,
-    pelabuhan: "Melonguane",
-    tanggalDatang: "-",
-    jamDatang: "-",
-    tanggalBerangkat: "-",
-    jamBerangkat: "",
-  },
-  {
-    id: 5,
-    no: 5,
-    pelabuhan: "Melonguane",
-    tanggalDatang: "-",
-    jamDatang: "-",
-    tanggalBerangkat: "-",
-    jamBerangkat: "-",
-  },
-  {
-    id: 6,
-    no: 6,
-    pelabuhan: "Melonguane",
-    tanggalDatang: "-",
-    jamDatang: "-",
-    tanggalBerangkat: "-",
-    jamBerangkat: "-",
-  },
-  {
-    id: 7,
-    no: 7,
-    pelabuhan: "Melonguane",
-    tanggalDatang: "-",
-    jamDatang: "-",
-    tanggalBerangkat: "-",
-    jamBerangkat: "-",
-  },
-];
+  
 
 export const jadwalWatunapato = [
   {
