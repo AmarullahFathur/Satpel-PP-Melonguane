@@ -142,6 +142,8 @@ export const jadwalLabuhanHaji = [
     jamDatang: "09.00 WITA",
     tanggalBerangkat: "",
     jamBerangkat: "-",
+  },
+  ];
 
 export const jadwalWatunapato = [
   {
