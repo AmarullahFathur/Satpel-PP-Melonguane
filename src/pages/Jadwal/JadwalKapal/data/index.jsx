@@ -143,7 +143,7 @@ export const jadwalLabuhanHaji = [
     tanggalBerangkat: "",
     jamBerangkat: "-",
   },
-  ];
+];
 
 export const jadwalWatunapato = [
   {
