@@ -3,7 +3,7 @@ export const jadwalMarambe = [
     id: 1,
     no: 1,
     pelabuhan: "Melonguane",
-    jamDatang: Untuk Sementara KMP.Marambe Belum Beroperasi
+    jamDatang: "Untuk Sementara KMP.Marambe Belum Beroperasi"
     jamBerangkat: "",
   },
   {
